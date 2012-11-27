@@ -19,6 +19,43 @@ a:hover {
     border-bottom: 1px solid #BF2B31;
 }
 
+#page-header-banner {
+    background-image: none;
+    height: 110px;
+}
+
+#page-header {
+    height: 110px;
+}
+
+#page-header-right {
+    height: 110px;
+}
+
+h1.headermain {
+    color: #000000;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.headermain {
+    max-width: 600px;
+    left: 280px;
+    right: auto;
+    width: auto;
+}
+
+h2.department {
+    color: #000000;
+    font-size: 1.1em;
+    height: 40px;
+    right: auto;
+    left: 280px;
+    text-align: left;
+    width: auto;
+    max-width: 600px;
+}
+
 /******** Blocks ********/
 /** Fonts in block header **/
 .block .header h2 {
